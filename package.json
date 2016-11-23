@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/eljoaquin/elloader/issues"
   },
-  "homepage": "https://github.com/eljoaquin/elloader#readme"
+  "homepage": "https://github.com/eljoaquin/elloader#readme",
+  "dependencies": {
+    "loader-utils": "^0.2.16"
+  }
 }
