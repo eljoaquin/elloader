@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/eljoaquin/elloader#readme",
   "dependencies": {
+    "ejs": "^2.5.2",
     "loader-utils": "^0.2.16"
   }
 }
